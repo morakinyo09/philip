@@ -1,0 +1,100 @@
+body{
+    background-color: grey;
+    height: 100%;
+    width: 100%;
+}
+header{
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+    padding: 7px;
+    width: 100%;
+    border-bottom: 7px solid yellow;
+}
+h1{
+    color: white;
+    margin: 10px;
+}
+span{
+    color: yellow;
+    margin: 10px;
+}
+.rrr{
+    display: flex;
+    margin: 30px auto;
+    margin-left: 120px;
+    color: white;
+}
+#h{
+    padding: 5px 5px;
+    margin-right: 40px;
+    color: blue;
+    background-color: yellow;
+    border-radius: 10px 3px;
+}
+#c{
+    padding: 5px 5px;
+    margin-right: 40px;
+    color: blue;
+    background-color: yellow;
+    border-radius: 10px 3px;
+}
+#s{
+    padding: 5px 5px;
+    margin-right: 40px;
+    color: blue;
+    background-color: yellow;
+    border-radius: 10px 3px;
+}
+#w{
+    padding: 5px 5px;
+    margin-right: 40px;
+    color: blue;
+    background-color: yellow;
+    border-radius: 10px 3px;
+}
+main{
+    background-color: blue;
+    width: 500px;
+    padding: 20px;
+    margin: 28px auto;
+    border-radius: 20px;
+    color: white;
+}
+#me{
+    padding: 5px 5px;
+    margin-right: 40px;
+    color: blue;
+    background-color: yellow;
+    border-radius: 7px 7px;
+}
+footer{
+    background-color: blue;
+    width: 100%;
+    border-bottom: 10px solid yellow;
+    padding: 10px;
+    height: auto;
+    margin: auto;
+}
+#thanks{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+#visit{
+    padding: 5px 5px;
+    margin: 4px auto;
+    margin-bottom: 0px;
+    color: blue;
+    background-color: yellow;
+    border-radius: 7px 7px;
+    width: 220px;
+    text-decoration: none;
+}
+#ce{
+    padding: 3px 3px;
+    margin-right: 40px;
+    color: blue;
+    background-color: yellow;
+    border-radius: 5px 5px;
+}
